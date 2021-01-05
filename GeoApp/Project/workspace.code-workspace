@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Angular-GettingStarted-master\\EcoPriceBI"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"cSpell.words": [
+			"calcualte",
+			"lowestprice"
+		]
+	}
+}
